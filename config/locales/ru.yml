@@ -1,0 +1,34 @@
+ru:
+
+  layouts:
+    application:
+      title:       "Онлайн магазин"
+      home:        "Главная"
+      questions:   "Вопросы"
+      news:        "Новости"
+      contact:     "Контакты"
+
+  store:
+    index:
+      title_html: "Онлайн магазин"
+      add_html:   "Добавить в корзину"
+
+  carts:
+    cart:
+      title:    "Ваша корзина"
+      empty:    "Опорожнить корзину"
+      checkout: "Оформить заказ"
+
+  orders:
+    new:
+      legend:          "Пожалуйста, введите ваши данные"
+    form:
+      name:            "Имя"
+      address_html:    "Адрес"
+      email:           "E-mail"
+      pay_type:        "Оплата"
+      pay_prompt_html: "Выберите способ оплаты"
+      submit:          "Поместить заказ"
+
+  
+  thanks: "Спасибо за покупку"
